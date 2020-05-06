@@ -1,4 +1,4 @@
-# PlayMakerExercise
+# PlayMakerExercise-像素鳥
 
 Playmaker 實際上就是利用狀態機製作遊戲物件行為
 
@@ -7,6 +7,8 @@ Playmaker 實際上就是利用狀態機製作遊戲物件行為
 跟Bolt差異在於，Playmaker 更著重在"狀態"上面，Bolt更著重"流程"
 
 Playmaker 也可以跟 C# 腳本溝通，最大的問題是只能透過 SendMessage方式溝通。
+
+![](https://github.com/PeterLukGit/PlayMakerExercise/blob/master/00.PNG)
 
 # 注意
 
