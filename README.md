@@ -25,7 +25,7 @@ Playmaker 也可以跟 C# 腳本溝通，最大的問題是只能透過 SendMess
 
 # 責任聲明：
 
-[Blog位置](https://peterlukgit.github.io/)
+[Blog位置](https://www.notion.so/Blog-f5fca1cafe1f4379aebeeb6260dd3dc6)
 
 本Blog裡部分資料如為外部引用，版權為原著作者所有
 
